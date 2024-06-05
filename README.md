@@ -164,7 +164,7 @@ To test the echo operation, which simply returns the payload provided:
 After performing operations, log in to AWS and check the DynamoDB table values to verify the changes.
 
 ## Client Side Code (Raspberry Pi)
-An example python code for Raspberry Pi is shown here to call API every two minutes with timestamp and CPU temperature (Celcius).
+An example python code (rpi-cpu-temp-120s.py) for Raspberry Pi is shown here to call API every two minutes with timestamp and CPU temperature (Celcius).
 
 
 ## Clean Up
