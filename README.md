@@ -73,7 +73,7 @@ Note: This URL may change every time you deploy. To keep the API Gateway URL con
 
 ### CURL Example
     curl --http1.1 -X POST \
-    'https://<span style="color:red">your-gateway-id<span>.execute-api.us-east-1.amazonaws.com/test/DynamoDBManager?QueryString1=queryValue1&StageVar1=stageValue1' \
+    'https://l8togsqxd8.execute-api.us-east-1.amazonaws.com/test/DynamoDBManager?QueryString1=queryValue1&StageVar1=stageValue1' \
     -H "HeaderAuth1: headerValue1" \
     -H 'Content-Type: application/json' \
     -d '{
