@@ -1,4 +1,4 @@
-# Serverless Scalable CRUD Data API with AWS API Gateway and DynamoDB using Lambda Authorizer
+# Building a Secure Scalable Data API with AWS API Gateway, DynamoDB and Lambda Authorizer
 
 ## About
 
